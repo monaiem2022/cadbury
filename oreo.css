@@ -1,0 +1,49 @@
+
+
+.one {
+    
+    height: 200px;
+    width: 100%;
+    margin-bottom: 10px;
+    position: relative;
+    border-radius: 5px;
+    border: 1px solid #6610f2;
+    /* box-shadow: 1px 1px 1px .5px gray; */
+}
+
+.price {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    color: #6f42c1;
+    transform: rotate(-6deg);
+   
+}
+
+.one img {
+    height: 100px;
+    margin-top: 10px;
+}
+
+.button {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+button {
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #6f42c1;
+    color: white;
+    
+    padding: 5px;
+}
