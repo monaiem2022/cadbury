@@ -15,13 +15,3 @@ body.onload = function () {
 }
 
 
-var ahmed = document.getElementById('ahmed');
-
-var try1 = document.getElementById('try1');
-
-var a = document.getElementById('a');
-
-a.onclick = function () {
-
-    try1.append(ahmed);
-}
