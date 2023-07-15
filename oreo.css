@@ -49,12 +49,16 @@ button {
 }
 
 .logo {
- 
+   
     background-image: url(logo.jpg);
     background-size: cover;
     height: 200px;
     background-position: center;
     border-radius: 5px;
+}
+
+body {
+    margin: 0;
 }
 
 
