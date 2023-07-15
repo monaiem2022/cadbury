@@ -54,6 +54,7 @@ button {
     background-size: cover;
     height: 200px;
     background-position: center;
+    border-radius: 5px;
 }
 
 
