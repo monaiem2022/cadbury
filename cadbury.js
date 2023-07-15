@@ -15,7 +15,7 @@ body.onload = function () {
 }
 
 
-var button = document,getElementById('button');
+var button = document.getElementById('button');
 
 var try1 = document.getElementById('try1');
 
