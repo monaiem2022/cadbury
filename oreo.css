@@ -47,3 +47,15 @@ button {
     
     padding: 5px;
 }
+
+.logo {
+ 
+    background-image: url(logo.jpg);
+    background-size: cover;
+    height: 200px;
+    background-position: center;
+}
+
+
+
+
