@@ -13,3 +13,15 @@ body.onload = function () {
         body.style.display = 'block'
     }
 }
+
+
+var button = document,getElementById('button');
+
+var try1 = document.getElementById('try1');
+
+var a = document.getElementById('a');
+
+button.onclick = function () {
+
+    try1.append(a)
+}
